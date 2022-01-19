@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NovakMarek, software engineer student.
-- 👀 I’m interested in Python, Django, Everything in frontend and also cryptography.
-- 🌱 I’m currently learning to develop web apps.
+- 👀 I’m interested in frontend dev but also learning PHP for backend.
+- 🌱 I’m currently learning to develop multiplatform apps.
 - 📫 How to reach me via email: m1_novak@utb.cz
 
 <h2>Languages</h2>
