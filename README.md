@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NovakMarek, frontend developer.
+- 👋 Hi, I’m @NovakMarek, full-stack developer.
 - 👀 I’m interested in frontend dev but also diving into backend through some cool technologies like Nest.js.
 - 🌱 I’m currently learning to develop the most efficient apps when it comes to usability and user focused design.
 - 📫 How to reach me via email: marek@novakmarek.cz
